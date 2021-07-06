@@ -1,6 +1,3 @@
-"""Функции для формирования движка игры"""
-
-
 def welcome():
     print('Welcome to the Brain Games!')
 

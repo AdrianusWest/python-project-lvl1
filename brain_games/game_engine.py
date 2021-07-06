@@ -1,4 +1,4 @@
-from brain_games.engine.cli import welcome, greet, show_error, congratulations
+from brain_games.cli import welcome, greet, show_error, congratulations
 import prompt
 
 
