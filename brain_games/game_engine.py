@@ -8,7 +8,8 @@ def congratulations(name):
 
 def show_error(user_answer, correct_answer, name):
     print(
-        f'{user_answer} is wrong answer ;(. Correct answer was {correct_answer}.'
+        f'{user_answer} is wrong answer ;(. '
+        f'Correct answer was {correct_answer}.'
     )
     print(f"Let\'s try again, {name}!")
 
