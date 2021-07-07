@@ -18,7 +18,7 @@ def get_answer(num1, operator, num2):
 def generate_question():
     num1 = random.randint(1, 100)
     num2 = random.randint(1, 100)
-    operators = ('+', '-', '*', '/')
+    operators = ('+', '-', '*')
     operator = random.choice(operators)
     question = f'Question: {num1} {operator} {num2}'
     correct_answer = str(get_answer(num1, operator, num2))
