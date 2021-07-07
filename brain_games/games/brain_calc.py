@@ -10,8 +10,6 @@ def get_answer(num1, operator, num2):
         result = num1 - num2
     elif operator == '*':
         result = num1 * num2
-    elif operator == '/':
-        result = num1 / num2
     else:
         raise ValueError('The operator is not correct!')
     return result
