@@ -22,4 +22,4 @@ def generate_question():
     operator = random.choice(operators)
     question = f'Question: {num1} {operator} {num2}'
     correct_answer = str(get_answer(num1, operator, num2))
-    return (question, correct_answer)
+    return question, correct_answer
