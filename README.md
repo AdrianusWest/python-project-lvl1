@@ -2,14 +2,27 @@
 [![Actions Status](https://github.com/AdrianusWest/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AdrianusWest/python-project-lvl1/actions) 
  [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)   ![example workflow](https://github.com/AdrianusWest/python-project-lvl1/actions/workflows/python-package.yml/badge.svg)
 
-https://asciinema.org/a/01TqoTvlzp72v2SIgaeb5CX16
 
-https://asciinema.org/a/YNurog4eFCj0td3jkVDkq5q9p
+Brain Games (demo):
 
-https://asciinema.org/a/Kpf9mLpGZBIdBSNat8nccnDtX
+[![asciicast](https://asciinema.org/a/424752.svg)](https://asciinema.org/a/424752)
 
-https://asciinema.org/a/GPrTccTXMLHgsFxP5ruiqipev
+Brain Even:
 
-https://asciinema.org/a/VxUDUdakjmcGewNi2tOMTQecp
+[![asciicast](https://asciinema.org/a/424755.svg)](https://asciinema.org/a/424755)
 
-https://asciinema.org/a/UdedobXuRX8uJowdCBLYe2xx9
+Brain Calc:
+
+[![asciicast](https://asciinema.org/a/424756.svg)](https://asciinema.org/a/424756)
+
+Brain GCD:
+
+[![asciicast](https://asciinema.org/a/424758.svg)](https://asciinema.org/a/424758)
+
+Brain Progression:
+
+[![asciicast](https://asciinema.org/a/424760.svg)](https://asciinema.org/a/424760)
+
+Brain Prime:
+
+[![asciicast](https://asciinema.org/a/424761.svg)](https://asciinema.org/a/424761)
