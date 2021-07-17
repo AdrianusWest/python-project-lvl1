@@ -16,6 +16,6 @@ def get_gcd(num1, num2):
 def generate_question():
     num1 = random.randint(1, 100)
     num2 = random.randint(1, 100)
-    question = f'Question: {num1} {num2}'
+    question = f'{num1} {num2}'
     correct_answer = get_gcd(num1, num2)
     return question, str(correct_answer)

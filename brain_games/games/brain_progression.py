@@ -19,6 +19,6 @@ def generate_question():
         progression += (' ' + chunk)
         random_number += step
         counter = counter + 1
-    question = f'Question: {progression.lstrip()}'
+    question = f'{progression.lstrip()}'
     results = question, correct_answer
     return results
