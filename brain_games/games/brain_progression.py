@@ -9,7 +9,7 @@ def generate_question():
     counter = 0
     progression = ''
     random_step = random.randint(0, 9)
-    chunk = ''
+
     while counter <= 11:
         if counter == random_step:
             chunk = '..'
