@@ -3,7 +3,7 @@ import random
 INSTRUCTION = 'What number is missing in the progression?'
 
 
-def generate_question():
+def get_question_and_answer():
     step = random.randint(1, 10)
     random_number = random.randint(1, 1000)
     counter = 0

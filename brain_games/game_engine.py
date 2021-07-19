@@ -18,7 +18,7 @@ def engine(game):
     number_of_rounds = 3
 
     while number_of_rounds:
-        question, correct_answer = game.generate_question()
+        question, correct_answer = game.get_question_and_answer()
         user_answer = prompt.string(f'Question: {question}\nYour answer: ')
         if user_answer != correct_answer:
             show_error(user_answer, correct_answer, name)
