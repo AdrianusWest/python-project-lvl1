@@ -9,8 +9,9 @@ def get_question_and_answer():
     counter = 0
     progression = ''
     random_step = random.randint(0, 9)
+    progression_length_count = 11
 
-    while counter <= 11:
+    while counter <= progression_length_count:
         if counter == random_step:
             chunk = '..'
             correct_answer = str(random_number)
@@ -20,5 +21,4 @@ def get_question_and_answer():
         random_number += step
         counter = counter + 1
     question = f'{progression.lstrip()}'
-    results = question, correct_answer
-    return results
+    return question, correct_answer

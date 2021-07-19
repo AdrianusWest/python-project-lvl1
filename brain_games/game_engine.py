@@ -15,9 +15,9 @@ def engine(game):
     print(f'Hello, {name}!')
     print(game.INSTRUCTION)
 
-    number_of_rounds = 3
+    rounds_count = 3
 
-    while number_of_rounds:
+    while rounds_count:
         question, correct_answer = game.get_question_and_answer()
         user_answer = prompt.string(f'Question: {question}\nYour answer: ')
         if user_answer != correct_answer:
@@ -25,6 +25,6 @@ def engine(game):
             exit()
 
         print('Correct!')
-        number_of_rounds -= 1
+        rounds_count -= 1
 
     print(f'Congratulations, {name}!')
