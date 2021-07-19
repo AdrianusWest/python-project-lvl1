@@ -3,6 +3,11 @@ name = "hexlet-code"
 version = "0.1.0"
 description = "Brain Games project"
 authors = ["Adrianus West <adrianus_west@protonmail.com>"]
+classifiers = [
+  "Programming Language :: Python :: 3.9",
+  "Natural Language :: English",
+  "Environment :: Console"
+]
 packages = [
   { include = "brain_games" },
 ]
