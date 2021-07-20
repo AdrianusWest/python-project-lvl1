@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Github Actions Status](https://github.com/hexlet-boilerplates/python-package/workflows/Python%20CI/badge.svg)](https://github.com/AdrianusWest/python-project-lvl1/actions)   [![Actions Status](https://github.com/AdrianusWest/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/AdrianusWest/python-project-lvl1/actions) 
- [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/AdrianusWest/python-project-lvl1)
+ [![Maintainability](https://api.codeclimate.com/v1/badges/6d73bc8e25d19a4535f1/maintainability)](https://codeclimate.com/github/AdrianusWest/python-project-lvl1/maintainability)
 
 
 Brain Games (demo):
